@@ -1,7 +1,10 @@
+Hi there , I 'm Nithish Kumar G
+
+
+This is the place where I open-source stuff and break things.
 
 
 
-<!---
-mrnithish/mrnithish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
