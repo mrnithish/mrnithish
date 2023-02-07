@@ -13,5 +13,4 @@ I am an enthusiastic person and quick learner. I love to dig into customer probl
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrnithish&icon=0&color=0)](https://visitcount.itsvg.in)
 
