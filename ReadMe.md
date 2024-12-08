@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am an enthusiastic person and quick learner. I love to dig into customer problems and solve them with modern technology. I enjoy meeting new people and hearing new perspectives.<br>  
-Passionate data scientist seeking to make a meaningful impact through advanced analytics and machine learning. Dedicated to unlocking valuable insights from complex datasets and driving data-informed decision-making. Committed to collaborating with interdisciplinary teams and delivering scalable solutions for optimizing operational efficiency and fueling business growth. Continuously learning and embracing emerging technologies to revolutionize industries and contribute to the success of forward-thinking organizations.<br><br>
+Passionate data scientist seeking to make a meaningful impact through advanced analytics and machine learning. Dedicated to unlocking valuable insights from complex datasets and driving data-informed decision-making. Committed to collaborating with interdisciplinary teams and delivering scalable solutions for optimizing operational efficiency and fueling business growth. Continuously learning and embracing emerging technologies to revolutionize industries and contribute to the success of forward-thinking organizations. <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-nithish-kumar/) 
