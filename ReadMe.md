@@ -33,6 +33,12 @@ As an AI/ML engineer, I specialize in developing scalable and robust solutions b
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=plastic&logo=jira&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=plastic&logo=fastapi&logoColor=white) 
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23FFD700.svg?style=plastic&logo=opencv&logoColor=black) 
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrnithish&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
