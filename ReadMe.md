@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am an enthusiastic and quick learner passionate about leveraging AI and machine learning to solve complex problems. I thrive on building intelligent systems that make a meaningful impact on businesses and society.
 
-
 As an Agentic AI Engineer, I specialize in developing scalable and robust solutions by combining advanced analytics, deep learning, and innovative thinking. I enjoy collaborating with interdisciplinary teams to turn challenging problems into actionable insights. My expertise lies in creating data-driven models and deploying them in production to optimize operational processes, enhance decision-making, and drive transformative results. <br><br>
 
 ## 🌐 Socials:
