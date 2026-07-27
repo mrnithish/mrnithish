@@ -131,7 +131,6 @@ I specialize in:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrnithish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=mrnithish&theme=tokyonight&hide_border=true"/>
 
@@ -147,15 +146,6 @@ I specialize in:
 
 </p>
 
-
-
-# 📊 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrnithish&theme=tokyonight"/>
-
-</p>
 
 
 # 💭 Quote
