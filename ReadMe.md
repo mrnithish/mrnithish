@@ -1,57 +1,204 @@
-# 💫 About Me:
-I am an enthusiastic and quick learner passionate about leveraging AI and machine learning to solve complex problems. I thrive on building intelligent systems that make a meaningful impact on businesses and society.
+<h1 align="center">Hi 👋, I'm Nithish Kumar</h1>
 
+<h3 align="center">
+🚀 Agentic AI Engineer • Voice AI Builder • AI Product Engineer • Open Source Explorer
+</h3>
 
-As an Agentic AI Engineer, I specialize in developing scalable and robust solutions by combining advanced analytics, deep learning, and innovative thinking. I enjoy collaborating with interdisciplinary teams to turn challenging problems into actionable insights. My expertise lies in creating data-driven models and deploying them in production to optimize operational processes, enhance decision-making, and drive transformative results. <br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+AI+Agents+for+Real+World+Problems.;Voice+AI+%7C+LLMs+%7C+MCP+%7C+RAG.;Turning+Ideas+into+Scalable+Products.;Always+Learning.+Always+Building.+Always+Shipping." />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-nithish-kumar/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@g.nithish100) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/u/Nithish-Kumar-G/s/oHIi0pBhrQ) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrnithish&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/mrnithish?style=for-the-badge" />
+</p>
 
-## 💻 Tech Stack:
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=plastic&logo=jira&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=plastic&logo=fastapi&logoColor=white) 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23FFD700.svg?style=plastic&logo=opencv&logoColor=black) 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black)
+---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrnithish&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrnithish&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnithish&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 💫 About Me
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=mrnithish&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+🧠 I don't just build AI models—I build **AI Products**.
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm an **Agentic AI Engineer** passionate about creating intelligent systems that can **reason, communicate, automate, and solve real-world business problems.**
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=mrnithish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I specialize in:
 
+- 🤖 AI Agents
+- 🎙 Voice AI
+- 🧠 LLM Applications
+- 🔗 Model Context Protocol (MCP)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI
+- ☁️ Cloud Infrastructure
+- 🚀 AI Product Engineering
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Enterprise AI Agents
+- 🎙️ Real-Time Voice AI
+- 🧠 Multi-Agent Systems
+- 🔗 MCP Integrations
+- 📚 RAG Pipelines
+- ☁️ Cloud-native AI
+- 🚀 AI Products
+
+---
+
+# 🌟 Fun Facts
+
+- 🌙 Most of my best ideas arrive after midnight.
+- 🚀 I love shipping products more than collecting unfinished side projects.
+- 🧩 I enjoy reverse engineering products.
+- 🎮 Debugging feels like defeating boss fights.
+- 📖 I learn new technologies by building with them.
+- ☕ Coffee + Music + AI = Perfect Coding Session.
+
+---
+
+# 🛠 Tech Arsenal
+
+## 🤖 AI & LLM
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Llama-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge"/>
+</p>
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,kotlin,js,ts,html,css" />
+</p>
+
+## ⚙ Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,tensorflow,pytorch" />
+</p>
+
+## ☁ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,firebase" />
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,notion" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.nithishkumar.me">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+<a href="https://www.linkedin.com/in/g-nithish-kumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/mrnithish">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://medium.com/@g.nithish100">
+<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrnithish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=mrnithish&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnithish&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrnithish&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnithish&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mrnithish&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrnithish&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Snake Contribution Graph
+
+> **Note:** Create the GitHub Action first to generate this SVG.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mrnithish/mrnithish/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **"Don't just use AI. Build AI that builds value."**
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
