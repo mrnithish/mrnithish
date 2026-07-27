@@ -137,19 +137,7 @@ I specialize in:
 
 </p>
 
----
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnithish&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrnithish&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -159,17 +147,7 @@ I specialize in:
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mrnithish&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</p>
-
----
 
 # 📊 Profile Summary
 
@@ -179,19 +157,6 @@ I specialize in:
 
 </p>
 
----
-
-# 🐍 Snake Contribution Graph
-
-> **Note:** Create the GitHub Action first to generate this SVG.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mrnithish/mrnithish/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 💭 Quote
 
