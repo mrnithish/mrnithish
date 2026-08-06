@@ -8,10 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+AI+Agents+for+Real+World+Problems.;Voice+AI+%7C+LLMs+%7C+MCP+%7C+RAG.;Turning+Ideas+into+Scalable+Products.;Always+Learning.+Always+Building.+Always+Shipping." />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrnithish&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/mrnithish?style=for-the-badge" />
-</p>
+
 
 ---
 
