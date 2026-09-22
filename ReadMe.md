@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+AI+Agents+for+Real+World+Problems.;Voice+AI+%7C+LLMs+%7C+MCP+%7C+RAG.;Turning+Ideas+into+Scalable+Products.;Always+Learning.+Always+Building.+Always+Shipping." />
 </p>
 
-
 ---
 
 # 💫 About Me
